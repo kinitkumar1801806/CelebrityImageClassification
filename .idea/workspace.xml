@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ecfbd0fe-e20d-4d38-ab3b-6389a019a417" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1hVc5b6OWyITrzPw1VjVzjJX7HM" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/static/jssfiles" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\wwwki\PycharmProjects\CelebrityImageClassification\CelebrityImageClassification\model" />
+      <recent name="C:\Users\wwwki\PycharmProjects\CelebrityImageClassification\static\jssfiles" />
+      <recent name="C:\Users\wwwki\PycharmProjects\CelebrityImageClassification\static\cssfiles" />
+      <recent name="C:\Users\wwwki\PycharmProjects\CelebrityImageClassification" />
+      <recent name="C:\Users\wwwki\PycharmProjects\CelebrityImageClassification\CelebrityImageClassification\static" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\wwwki\PycharmProjects\CelebrityImageClassification\static\jssfiles" />
+      <recent name="C:\Users\wwwki\PycharmProjects\CelebrityImageClassification\static" />
+      <recent name="C:\Users\wwwki\PycharmProjects\CelebrityImageClassification\templates" />
+      <recent name="C:\Users\wwwki\PycharmProjects\CelebrityImageClassification\CelebrityImageClassification" />
+      <recent name="C:\Users\wwwki\PycharmProjects\CelebrityImageClassification\media\images" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ecfbd0fe-e20d-4d38-ab3b-6389a019a417" name="Default Changelist" comment="" />
+      <created>1600099517701</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1600099517701</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.js" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1600180058259">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1600180058259" />
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1600099779875">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1600099779875" />
+    <state x="270" y="54" key="SettingsEditor" timestamp="1600100464558">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="270" y="54" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1600100464558" />
+    <state x="337" y="148" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1600180077038">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="337" y="148" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1536.824@0.0.1536.824" timestamp="1600180077038" />
+  </component>
+</project>
